@@ -1,3 +1,6 @@
 [submodule "backend-portal-libras"]
 	path = backend-portal-libras
 	url = https://github.com/thiagomslv/backend-portal-libras.git
+[submodule "frontend-portal-libras"]
+	path = frontend-portal-libras
+	url = https://github.com/thiagomslv/frontend-portal-libras.git
