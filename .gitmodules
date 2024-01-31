@@ -1,0 +1,3 @@
+[submodule "backend-portal-libras"]
+	path = backend-portal-libras
+	url = https://github.com/thiagomslv/backend-portal-libras.git
